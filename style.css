@@ -1,0 +1,31 @@
+html{
+    background-color: black;
+}
+
+.main{
+    width: 50%;
+    margin-top: 50px;
+    margin: auto;
+    
+    
+ 
+}
+/* .bit{
+    background-color: black;
+} */
+.first{
+    display: flex;
+    
+    justify-content: space-between;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 10px;
+    font-size: small;
+    font-style: normal;
+    align-items: center;
+}
+#bit{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
